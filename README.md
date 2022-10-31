@@ -1,7 +1,12 @@
-### Hi there 👋
+**Hi there my name is Alex!**
 
-⋅ I enjoy games and computer science!
-⋅ Java, Processing Language
+Currently, I am profficient standing in these languages:  
+⋅ *Java*
+⋅ *Processing Language (With Processing IDE)*  
+  
+  
+Currently Learning:  
+⋅ *C# in Unity*
 
-Currently Learning:
-⋅ C# in Unity
+I also enjoy some graphic and video design and have worked with some softwares such as:  
+⋅ *Blender, Firelpaca, Camtasia Video Editor*
